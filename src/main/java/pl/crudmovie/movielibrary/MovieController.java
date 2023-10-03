@@ -24,6 +24,4 @@ public class MovieController {
         return movieRepository.getAll();
 
     }
-
-
 }
